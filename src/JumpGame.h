@@ -1,0 +1,6 @@
+#ifndef JUMPGAME_JUMPGAME_H
+#define JUMPGAME_JUMPGAME_H
+
+
+
+#endif //JUMPGAME_JUMPGAME_H
